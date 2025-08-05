@@ -4,9 +4,11 @@
 To analyze a suspicious email and identify phishing indicators such as spoofed sender, fake links, grammar mistakes, and social engineering tactics.
 
 ##  Files Included:
+- 'Phishing_analysis_flowchart.png': flowchart
 - `phishing_email.txt`: Sample phishing email
 - `phishing_analysis_report.md`: Complete analysis report
 - `README.md`: Project summary
+
 
 ##  Tools Used:
 - Header analyzer (mxtoolbox.com)
