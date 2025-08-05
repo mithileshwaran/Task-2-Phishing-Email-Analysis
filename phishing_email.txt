@@ -1,0 +1,12 @@
+From: support@paypai.com  
+To: you@example.com  
+Subject: Your Account is Suspended!  
+
+Body:  
+Dear Customer,  
+We has suspendded your acount. Click below to restore access:  
+http://paypal-login.ru  
+Please download and open attached invoice.html for more details.  
+
+Regards,  
+PayPal Security Team
